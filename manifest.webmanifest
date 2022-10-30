@@ -1,0 +1,25 @@
+{
+  "short_name": "Michael Estep Construction",
+  "name": "Michael Estep Construction",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "https://www.mestepconstruction.com",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#27a102",
+  "description": "Michael Estep Construction, serving the Springfield/Eugene Oregon area."
+}
