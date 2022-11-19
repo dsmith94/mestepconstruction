@@ -45,8 +45,7 @@ hr {
 
 
 .SocialGraphic {
-max-width: 50px;
-  width: 30vw;
+  width: 50px;
   height: auto;
   margin-left: 1vw;
   margin-right: 1vw;
@@ -57,6 +56,7 @@ max-width: 50px;
     background-color: #27a102;
     width: 100%;
     padding-top: 1%;
+    float: none;
     padding-bottom: 1%;
 }
 
